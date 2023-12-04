@@ -4,8 +4,7 @@
 
 
 ### Idea 
-1.	It is design by myself that I want to develop a torchless user interface.
-2.	It is learn the gesture from hand and predict the gesture to make control.
+1.	It is learn the gesture from hand and predict the gesture to make UI control.
 
 
 ### Model architecture
