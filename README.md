@@ -4,11 +4,11 @@
 
 
 ### Idea 
-1.	It is learn the gestures from hands and predict the gestures to make UI control.
+This project learns hand gestures and predicts them in real time to enable user interface (UI) control through intuitive, gesture-based interaction.
 
 
 ### Model architecture
-The ANN model architecture using transformer.
+The system uses an artificial neural network (ANN) architecture based on Transformer models for gesture recognition and prediction.
 
 
 ## AUTHORS
